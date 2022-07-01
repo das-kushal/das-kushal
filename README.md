@@ -57,8 +57,3 @@ Some of my skills include :
 [linkedin]: https://www.linkedin.com/in/kushal-das-3936b3211/
 [leetcode]: https://leetcode.com/kushaldas30102002/
   
-<style>
-  .img1  img{
-  
-  }
-  </style>
