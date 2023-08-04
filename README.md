@@ -7,7 +7,14 @@
   
 [![Website](https://img.shields.io/badge/Jadavpur-CSE-green?style=flat-square)](https://google.com) </h1>
 
-<p align="center"> I am currently a Final Year Student at Jadavpur University,Kolkata. I love DSA and also into CP and Web Dev </p>
+<p align="center"> I am currently a Final Year Student at Jadavpur University,Kolkata.<br> I love 
+  $\textit{\textcolor{orange}{Data Structures and Algorithms}}$
+  and also $\textit{\textcolor{orange}{Web Dev}}$ 
+<br>
+$\textit{\textcolor{orange}{I mainly do fullstack web development using React and Express!!}}$ 
+
+
+</p>
 
 <h2 align="center">
 Some of my skills include :
