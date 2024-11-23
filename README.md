@@ -2,17 +2,30 @@
 
 <h1 align="center">Hi, I'm Kushal Das 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50px" />
-  
+ 
+ 
 
-  
-[![Website](https://img.shields.io/badge/Jadavpur-CSE-green?style=flat-square)](https://google.com) </h1>
 
-<p align="center"> I am currently a Final Year Student at Jadavpur University,Kolkata.<br> I love 
+<!--[![Website](https://img.shields.io/badge/Jadavpur-CSE-green?style=flat-square)](https://google.com) -->
+
+</h1> 
+   <h3 align="center">Program Associate, Wells Fargo </h3>
+ <p align="center">
+    <img src="https://img.shields.io/badge/-Wells Fargo-D71E28?style=flat&logo=wellsfargo&logoColor=white"/>
+<!-- <img src="https://github.com/user-attachments/assets/921f95a2-cfac-487b-a70b-513f4bc5a9b6" height="50px" /> -->
+  
+  </p>
+
+<p align="center">
+  
+ <!-- I am currently a Final Year Student at Jadavpur University,Kolkata.<br> I love 
   $\textit{\textcolor{orange}{Data Structures and Algorithms}}$
   and also $\textit{\textcolor{orange}{Web Dev}}$ 
 <br>
 $\textit{\textcolor{orange}{I mainly do fullstack web development using React and Express!!}}$ 
+-->
 
+Hello there, I am Kushal, currently a Program Associate at Wells Fargo, Hyderabad. I did Computer Science & Engineering (with Hons.) from Jadavpur University 2024, I am a full stack developer with a keen interest in Data Structures and Algorithms and has solved 1200+ problems on Leetcode. I also did my summer internship at Wells Fargo, Bangalore where I worked on React (for frontend) and Flask (for backend). I like to code and listen music in my free time.
 
 </p>
 
@@ -21,46 +34,40 @@ Some of my skills include :
   <br>
 
   <br>
-  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-  ![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
-  ![Chart.JS](https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
- 
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Nodemon-76D04B?style=flat&logo=nodemon&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/-shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Chakra UI-319795?style=flat&logo=chakraui&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/-The Algorithms-00BCB4?style=flat&logo=thealgorithms&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Microsoft Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-PythonAnywhere-1D9FD7?style=flat&logo=pythonanywhere&logoColor=white"/>
   </h2>
 
 
  
 
 
-<h3 align="center"> Connect with me:
-  <br><br>
-  
-[<img align="center" alt="codeSTACKr.com" width="22px" src="https://www.svgrepo.com/show/305880/codechef.svg" color="white" />][website]
-  &nbsp;
-[<img align="center" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][twitter]
-  &nbsp;
-[<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-&nbsp;
-  [<img align="center" alt="codeSTACKr | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
 
-  <br />
 
 
 
