@@ -25,7 +25,7 @@
 $\textit{\textcolor{orange}{I mainly do fullstack web development using React and Express!!}}$ 
 -->
 
-Hello there, I am Kushal, currently a Program Associate at Wells Fargo, Hyderabad. I did Computer Science & Engineering (with Hons.) from Jadavpur University 2024, I am a full stack developer with a keen interest in Data Structures and Algorithms and has solved 1200+ problems on Leetcode. I also did my summer internship at Wells Fargo, Bangalore where I worked on React (for frontend) and Flask (for backend). I like to code and listen music in my free time.
+Hello there, I am Kushal, currently a Software Engineer at Wells Fargo, Hyderabad. I did Computer Science & Engineering (with Hons.) from Jadavpur University 2024, I am a full stack developer with a keen interest in Data Structures and Algorithms and has solved 1200+ problems on Leetcode. I also did my summer internship at Wells Fargo, Bangalore where I worked on React (for frontend) and Flask (for backend). I like to code and listen music in my free time.
 
 </p>
 
