@@ -9,7 +9,7 @@
 <!--[![Website](https://img.shields.io/badge/Jadavpur-CSE-green?style=flat-square)](https://google.com) -->
 
 </h1> 
-   <h3 align="center">Program Associate, Wells Fargo </h3>
+   <h3 align="center">Software Engineer, Wells Fargo </h3>
  <p align="center">
     <img src="https://img.shields.io/badge/-Wells Fargo-D71E28?style=flat&logo=wellsfargo&logoColor=white"/>
 <!-- <img src="https://github.com/user-attachments/assets/921f95a2-cfac-487b-a70b-513f4bc5a9b6" height="50px" /> -->
